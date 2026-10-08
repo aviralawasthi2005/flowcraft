@@ -1,8 +1,10 @@
-# Automatisch - Open Source Zapier Alternative
+# FlowCraft - Open Source Workflow Automation
 
-![Automatisch - Screenshot](https://user-images.githubusercontent.com/2501931/191562539-e42f6c34-03c7-4dc4-bcf9-7f9473a9c64f.png)
+> **FlowCraft** is a workflow automation platform based on [Automatisch](https://github.com/automatisch/automatisch), licensed under AGPL-3.0.
 
-🧐 Automatisch is a business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes.
+![Screenshot](https://user-images.githubusercontent.com/2501931/191562539-e42f6c34-03c7-4dc4-bcf9-7f9473a9c64f.png)
+
+🧐 FlowCraft is a business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes.
 
 💸 Automating your workflows doesn't have to be a difficult or expensive process. You also don't need any programming knowledge to use Automatisch.
 

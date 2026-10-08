@@ -8,7 +8,7 @@ const MetadataProvider = ({ children }) => {
   const config = configData?.data;
 
   React.useEffect(() => {
-    document.title = config?.title || 'Automatisch';
+    document.title = config?.title || 'FlowCraft';
   }, [config?.title]);
 
   React.useEffect(() => {
